@@ -91,9 +91,7 @@ code {
 
 }
 
-.Main{
-  padding-bottom: 213px;
-}
+
 
 .socialIcons{
   display: flex;
@@ -155,4 +153,56 @@ code {
   font-weight: 400;
   margin: 0px 5px;
 }
+
+
+.card1 .project-sidebar img{
+  height: 150px;
+  width:150px;
+  padding:10px;
+  border-radius: 50%;
+}
+
+.card1 .project-sidebar a {
+  font-size: 2rem;
+  color:#6B434C;
+}
+.card1{
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  width:80%;
+  max-width: 600px;
+  display:flex;
+  background: #DED9D4;
+  color:#6B434C;
+  padding:2em;
+  margin-top: 1rem;
+  margin-left :1rem;
+}
+
+
+.card2 .project-sidebar img{
+  height: 150px;
+  width:150px;
+  padding:10px;
+  border-radius: 50%;
+}
+
+.card2 .project-sidebar a {
+  font-size: 2rem;
+  color:#6B434C;
+}
+.card2{
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  width:80%;
+  max-width: 600px;
+  display:flex;
+  background: #DED9D4;
+  color:#6B434C;
+  padding:2em;
+  margin-top: 1rem;
+  margin-left :1rem;
+  margin-bottom: 1rem;
+}
+
+
+
 
